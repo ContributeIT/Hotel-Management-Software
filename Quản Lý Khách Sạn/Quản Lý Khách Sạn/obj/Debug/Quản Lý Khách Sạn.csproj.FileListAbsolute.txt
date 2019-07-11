@@ -1,0 +1,28 @@
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe.config
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DanhMucPhong.resources
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.MainForm.resources
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuThuePhong.resources
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\QuanLyKhachSan.mdb
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TimKiemPhong.resources
+C:\Users\Administrator\Desktop\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.BaoCaoDoanhThu.resources
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe.config
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.exe
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\QuanLyKhachSan.mdb
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.exe
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\bin\Debug\Quản Lý Khách Sạn.pdb
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.DanhMucPhong.resources
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.MainForm.resources
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.PhieuThuePhong.resources
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.Properties.Resources.resources
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.BaoCaoDoanhThu.resources
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản_Lý_Khách_Sạn.TimKiemPhong.resources
+C:\Users\My PC\Desktop\Quản-Lý-Khách-Sạn\Quản Lý Khách Sạn\Quản Lý Khách Sạn\obj\Debug\Quản Lý Khách Sạn.csproj.GenerateResource.Cache
